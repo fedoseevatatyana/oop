@@ -3,7 +3,8 @@ public class Post {
     private int date;
     private CommentsInfo commentsInfo;
     private String text;
-    private int created_by;
+    private int createdBy;
     private int likes;
     private int reposts;
+    private int copyrightId;
 }
